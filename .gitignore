@@ -1,0 +1,6 @@
+venv
+/.idea
+__pycache__
+dao/__pycache__
+service/__pycache__
+views/__pycache__
